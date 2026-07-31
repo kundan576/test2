@@ -22,3 +22,5 @@ console.log("Testing AI reviewer");
 console.log("Testing AI reviewer v9");
 console.log("Testing AI reviewer v5");
 console.log("Testing RepoMindAI");
+
+console.log("Testing RepoMindAI2");
